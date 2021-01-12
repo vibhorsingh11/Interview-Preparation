@@ -8,7 +8,7 @@
  * Output: [0,1]
  * Output: Because nums[0] + nums[1] == 9, we return [0, 1].
  * */
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 import java.util.HashMap;
 import java.util.Map;

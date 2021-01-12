@@ -17,7 +17,7 @@
  * What if nums1's size is small compared to nums2's size? Which algorithm is better?
  * What if elements of nums2 are stored on disk, and the memory is limited such that you cannot load all elements into the
  * memory at once?*/
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 import java.util.ArrayList;
 import java.util.HashMap;

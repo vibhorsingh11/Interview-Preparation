@@ -1,4 +1,4 @@
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 import org.junit.jupiter.api.Test;
 

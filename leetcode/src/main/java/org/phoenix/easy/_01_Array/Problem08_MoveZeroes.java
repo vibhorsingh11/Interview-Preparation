@@ -8,7 +8,7 @@
  * Note:
  * You must do this in-place without making a copy of the array.
  * Minimize the total number of operations.*/
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 public class Problem08_MoveZeroes {
     public int[] moveZeroes(int[] nums) {

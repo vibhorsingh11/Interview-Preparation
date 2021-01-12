@@ -8,7 +8,7 @@
  * Output: true
  */
 
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 import java.util.Arrays;
 

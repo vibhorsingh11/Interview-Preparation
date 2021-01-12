@@ -20,7 +20,7 @@
 ,[".",".",".",".","8",".",".","7","9"]]
 
 * Output: true*/
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 import java.util.HashMap;
 

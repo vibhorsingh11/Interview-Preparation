@@ -12,7 +12,7 @@
  * 1 <= digits.length <= 100
  * 0 <= digits[i] <= 9
  * */
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 public class Problem07_PlusOne {
     public int[] plusOne(int[] digits) {

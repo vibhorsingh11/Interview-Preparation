@@ -6,7 +6,7 @@
  * Input: nums = [2,2,1]
  * Output: 1*/
 
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 public class Problem05_SingleNumber {
     public int singleNumber(int[] nums) {

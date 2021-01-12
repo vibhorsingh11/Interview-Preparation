@@ -1,6 +1,7 @@
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 import org.junit.jupiter.api.Test;
+import org.phoenix.easy._01_Array.Problem08_MoveZeroes;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 

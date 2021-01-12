@@ -8,7 +8,7 @@
  * Input: [7,1,5,3,6,4]
  * Output: 7
  * */
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 public class Problem02_BuyAndSellStockII {
     public int maxProfit(int[] prices) {

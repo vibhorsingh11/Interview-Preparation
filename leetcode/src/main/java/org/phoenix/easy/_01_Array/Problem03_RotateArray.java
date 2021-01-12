@@ -9,7 +9,7 @@
  * rotate 2 steps to the right: [6,7,1,2,3,4,5]
  * rotate 3 steps to the right: [5,6,7,1,2,3,4]
  */
-package org.phoenix.easy;
+package org.phoenix.easy._01_Array;
 
 public class Problem03_RotateArray {
     public int[] rotate(int[] nums, int k) {
