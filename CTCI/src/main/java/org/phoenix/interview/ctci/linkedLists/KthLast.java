@@ -1,5 +1,8 @@
 package org.phoenix.interview.ctci.linkedLists;
 
+/**
+ * Implement an algorithm to find the kth to last element of a singly linked list
+ */
 public class KthLast {
     public static int KthToLast(Node head, int k) {
         if (head == null) return -1;
